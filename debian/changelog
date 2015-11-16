@@ -1,0 +1,5 @@
+rtags (0~0) UNRELEASED; urgency=low
+
+  * package for Debian Wheezy
+
+ -- Jeff Epler <jepler@dsndata.com>  Fri, 13 Nov 2015 11:38:33 -0600
